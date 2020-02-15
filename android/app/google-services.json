@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "384866642452",
+    "firebase_url": "https://blogapp-e70b5.firebaseio.com",
+    "project_id": "blogapp-e70b5",
+    "storage_bucket": "blogapp-e70b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384866642452:android:12b527ce5e376768b11501",
+        "android_client_info": {
+          "package_name": "com.kibiki.blogposts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384866642452-9lhcs8qi433mr6s7plqi9a1kipmfjigk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXr-b2E_jGKs7H3fRRyu8V-xKc9u0iQcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384866642452-9lhcs8qi433mr6s7plqi9a1kipmfjigk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
